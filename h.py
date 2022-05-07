@@ -21,4 +21,4 @@ class Time:
 			return integer
 
 a=Time()
-a.time_to_int(prin="n")
+#a.time_to_int(prin="n")
